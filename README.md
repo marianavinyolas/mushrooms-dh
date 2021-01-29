@@ -1,6 +1,8 @@
-# Mushrooms Classifier- Digital House  
+# Mushrooms Classification- Digital House  
 
-## Kaggle competition
+## Kaggle competition  
+Safe to eat or deadly poison?  
+
 
 Construimos un clasificador binario para predecir si un hongo es comestible o venenoso.  
   
